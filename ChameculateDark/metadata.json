@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Bali10050, doncsugar"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "Idk",
+        "EnabledByDefault": true,
+        "Id": "chameculate-dark",
+        "License": "GPLv3",
+        "Name": "chameculate-dark",
+        "Version": "0.1"
+    }
+}
