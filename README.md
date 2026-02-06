@@ -1,9 +1,9 @@
 # Chameculate Aurorae for KDE Plasma
 
-This theme is NOT mine, it is NOT made by me.
+This theme is NOT mine, it is NOT made by me.\
 A combination of 2 aurorae themes:
 
-Bali's Chameleon: https://github.com/Bali10050
+Bali's Chameleon: https://github.com/Bali10050 \
 doncsugar's sumac-theme (aurorae): https://github.com/doncsugar
 
 > Bali's chamelon is too Windowsiee and doncsugar's sumac-theme has that one ugly bottom border.
